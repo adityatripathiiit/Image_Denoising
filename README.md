@@ -110,7 +110,7 @@ preserve edges.
 
 * The dataset is being downloaded from the given hashed link. However if at a later point of time, the dataset is not available in the input file, kindly use the image dataset present in the repository in place of the downloaded data. 
 
-* To run, open the colab file and select the image using the slider given. Then run the corresponding cells to get the results
+* To run, open the python notebook file and select the image using the slider given. Then run the corresponding cells to get the results
 
 ## References and Credits 💳
 
